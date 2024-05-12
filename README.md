@@ -31,12 +31,17 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Submit a pull request
 
 ## Screenshots
-
+### Dependency Graph of Modules
 ![Dependency Graph of Modules](https://github.com/ritik-rkg/Functional-Paradigms-in-Quantum-Computing/blob/5b04e3ebf6fba72b3ff5faf4561df30d17c5a5be/Screenshots/Dependency%20Graph%20of%20Modules.png)
+### Grover Searching Circuit
 ![Grover Searching Circuit](https://github.com/ritik-rkg/Functional-Paradigms-in-Quantum-Computing/blob/5b04e3ebf6fba72b3ff5faf4561df30d17c5a5be/Screenshots/Grover%20Searching%20Circuit.png)
+### Grover Searching Histogram
 ![Grover Searching Histogram](https://github.com/ritik-rkg/Functional-Paradigms-in-Quantum-Computing/blob/5b04e3ebf6fba72b3ff5faf4561df30d17c5a5be/Screenshots/Grover%20Searching%20Histogram.png)
+### Shor Classical Result
 ![Shor Classical Result](https://github.com/ritik-rkg/Functional-Paradigms-in-Quantum-Computing/blob/5b04e3ebf6fba72b3ff5faf4561df30d17c5a5be/Screenshots/Shor%20Classical%20Result.png)
+### Shor Final Circuit
 ![Shor Final Circuit](https://github.com/ritik-rkg/Functional-Paradigms-in-Quantum-Computing/blob/5b04e3ebf6fba72b3ff5faf4561df30d17c5a5be/Screenshots/Shor%20Final%20Circuit.png)
+### Shor State Probalilites Histogram
 ![Shor State Probalilites Histogram](https://github.com/ritik-rkg/Functional-Paradigms-in-Quantum-Computing/blob/5b04e3ebf6fba72b3ff5faf4561df30d17c5a5be/Screenshots/Shor%20State%20Probalilites%20Histogram.png)
 
 ## License
