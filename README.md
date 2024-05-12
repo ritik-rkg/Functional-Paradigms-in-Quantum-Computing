@@ -32,12 +32,12 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Screenshots
 
-![Dependency Graph of Modules](image_url)
-![Grover Searching Circuit](image_url)
-![Grover Searching Histogram](image_url)
-![Shor Classical Result](image_url)
-![Shor Final Circuit](image_url)
-![Shor State Probalilites Histogram](image_url)
+![Dependency Graph of Modules](https://github.com/ritik-rkg/Functional-Paradigms-in-Quantum-Computing/blob/5b04e3ebf6fba72b3ff5faf4561df30d17c5a5be/Screenshots/Dependency%20Graph%20of%20Modules.png)
+![Grover Searching Circuit](https://github.com/ritik-rkg/Functional-Paradigms-in-Quantum-Computing/blob/5b04e3ebf6fba72b3ff5faf4561df30d17c5a5be/Screenshots/Grover%20Searching%20Circuit.png)
+![Grover Searching Histogram](https://github.com/ritik-rkg/Functional-Paradigms-in-Quantum-Computing/blob/5b04e3ebf6fba72b3ff5faf4561df30d17c5a5be/Screenshots/Grover%20Searching%20Histogram.png)
+![Shor Classical Result](https://github.com/ritik-rkg/Functional-Paradigms-in-Quantum-Computing/blob/5b04e3ebf6fba72b3ff5faf4561df30d17c5a5be/Screenshots/Shor%20Classical%20Result.png)
+![Shor Final Circuit](https://github.com/ritik-rkg/Functional-Paradigms-in-Quantum-Computing/blob/5b04e3ebf6fba72b3ff5faf4561df30d17c5a5be/Screenshots/Shor%20Final%20Circuit.png)
+![Shor State Probalilites Histogram](https://github.com/ritik-rkg/Functional-Paradigms-in-Quantum-Computing/blob/5b04e3ebf6fba72b3ff5faf4561df30d17c5a5be/Screenshots/Shor%20State%20Probalilites%20Histogram.png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
